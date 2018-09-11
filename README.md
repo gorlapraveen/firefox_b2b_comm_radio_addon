@@ -19,3 +19,16 @@ Advantages:
   2.  Need no internet access(or WiFi network) for two or more system communication within the range.
   3. Increases the anonymity and privacy of the user.
   4. Avoiding the internal censorship while connecting to other systems for accessing the Internet. 
+
+----------------------------------------------------------------------------------------------
+
+What feature, release, or product can others work on during the program (September - December 2018)?
+
+Contributions from other collaborative individuals and Team members are accepted in each and every area of the project. However, it is great to get collaboration for the following.
+
+1. Firefox integration with GNU radio.
+2. Developing browser add-ons for the above implementation.
+3.  Proposing the Universal open policy recommendations for community involvement and implementation of this project. 
+4. Developing models for Adapting this project without technical assistance for the common user or the community.
+
+

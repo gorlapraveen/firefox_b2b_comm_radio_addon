@@ -1,6 +1,6 @@
-# firefox_b2b_comm_radio_addon
+# firefox Browser to Browser communication for Internet Access : [Radio + Addon]
 
-About the project:
+##About the project:
 
 The Objectives and Implementations of This project includes:
 

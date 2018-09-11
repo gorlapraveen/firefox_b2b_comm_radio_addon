@@ -1,4 +1,4 @@
-# firefox Browser to Browser communication for Internet Access : [Radio + Addon]
+# Firefox Browser to Browser communication for Internet Access : [Radio + Addon]
 
 About the project:
  

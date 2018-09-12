@@ -33,11 +33,11 @@ _*Contributions from other collaborative individuals and Team members are accept
 ### Team
 
 **Project Lead:**
-@gorlapraveen 
-@tejasri19 
-@rajasekharponakala
+[@gorlapraveen](https://github.com/gorlapraveen) 
+[@tejasri19](https://github.com/tejasri19)
+[@rajasekharponakala](https://github.com/rajasekharponakala)
 
-**Mentor:** @katjaq
+**Mentor:** [@katjaq](https://github.com/katjaq)
 
 
 *Mozilla Open Leader 6* [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73) *link* 

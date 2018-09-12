@@ -1,15 +1,15 @@
 # Firefox Browser to Browser communication for Internet Access : [Radio + Addon]
 
-About the project:
+##About the project:
 
  
-The Objectives and Implementations of This project includes:
+**The Objectives and Implementations of This project includes:**
 
   1. Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers within the Radiofrequency range.
   2. This is by integrating (Firefox) browser with GNU radio -and SDR Hardware. Taking the advantage of developing and implementing Firefox addon(s). 
   3. Taking the advantage of complete Open policy implementation.
 
-Advantages:
+**Advantages:**
 
 
  
@@ -20,9 +20,9 @@ Advantages:
 
 ----------------------------------------------------------------------------------------------
 
-What feature, release, or product can others work on during the program (September - December 2018)?
+**What feature, release, or product can others work on during the program (September - December 2018)?**
 
-Contributions from other collaborative individuals and Team members are accepted in each and every area of the project. However, it is great to get collaboration for the following.
+_*Contributions from other collaborative individuals and Team members are accepted in each and every area of the project. However, it is great to get collaboration for the following.*_
 
 1. Firefox integration with GNU radio.
 2. Developing browser add-ons for the above implementation.

@@ -1,7 +1,8 @@
 # Firefox Browser to Browser communication for Internet Access : [Radio + Addon]
 
-##About the project:
+## About the project:
 
+*Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers within the Radio frequency range.*
  
 **The Objectives and Implementations of This project includes:**
 
@@ -29,4 +30,4 @@ _*Contributions from other collaborative individuals and Team members are accept
 3.  Proposing the Universal open policy recommendations for community involvement and implementation of this project. 
 4. Developing models for Adapting this project without technical assistance for the common user or the community.
 
-
+Follow discussions and documents at [GoogleDocs](https://docs.google.com/document/d/198ksOxVEWML93oWXseHG46xxUkvqSe1d2_k8P76aAuM/edit)

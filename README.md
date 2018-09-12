@@ -2,7 +2,7 @@
 
 ## About the project:
 
-*Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers within the Radio frequency range with the helpful combination of* **GNU radio -Software Defined Radio(SDR software + RF Hardware)** with **Firefox addon.**
+*Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers within the Radio frequency range with the helpful combination of* [GNU radio](https://gnuradio.org)-*Software Defined Radio(SDR software + RF Hardware) with Firefox web browser* **addon.**
  
 **The Objectives and Implementations of This project includes:**
 

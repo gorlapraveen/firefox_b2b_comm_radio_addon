@@ -30,4 +30,8 @@ _*Contributions from other collaborative individuals and Team members are accept
 3.  Proposing the Universal open policy recommendations for community involvement and implementation of this project. 
 4. Developing models for Adapting this project without technical assistance for the common user or the community.
 
-Follow discussions and documents at [GoogleDocs](https://docs.google.com/document/d/198ksOxVEWML93oWXseHG46xxUkvqSe1d2_k8P76aAuM/edit)
+*Mozilla Open Leader 6* [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73) *link* 
+
+Follow discussions and documents at [GoogleDocs](https://docs.google.com/document/d/198ksOxVEWML93oWXseHG46xxUkvqSe1d2_k8P76aAuM/edit) .
+
+

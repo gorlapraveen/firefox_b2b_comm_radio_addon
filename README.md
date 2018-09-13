@@ -42,6 +42,6 @@ _*Contributions from other collaborative individuals and Team members are accept
 
 *Mozilla Open Leader 6* [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73) *link* 
 
-Follow discussions and documents at [GoogleDocs](https://docs.google.com/document/d/198ksOxVEWML93oWXseHG46xxUkvqSe1d2_k8P76aAuM/edit) .
+
 
 

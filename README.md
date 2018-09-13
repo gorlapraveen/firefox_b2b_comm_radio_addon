@@ -42,6 +42,7 @@ _*Contributions from other collaborative individuals and Team members are accept
 
 *Mozilla Open Leader 6* [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73) *link* 
 
+*Join the conversersations* [Gitter](https://gitter.im/firefoxb2b/) *link*
 
 
 

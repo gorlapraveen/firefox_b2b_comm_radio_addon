@@ -1,6 +1,6 @@
-# Firefox Browser to Browser communication for Internet Access : [Radio + Addon]
+# Firefox Browser to Browser Radio communication for Internet Access : [Radio + Addon]
 
-## About the project:
+## About the project :
 
 *Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers within the Radio frequency range with the helpful combination of* [GNU radio](https://gnuradio.org)-*Software Defined Radio(SDR software + RF Hardware) with Firefox web browser* **addon.**
  
@@ -40,7 +40,7 @@ _*Contributions from other collaborative individuals and Team members are accept
 **Mentor:** [@katjaq](https://github.com/katjaq)
 
 
-*Mozilla Open Leader 6* [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73) *link* 
+Track our issues at *Mozilla Open Leader 6* [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73) *link* 
 
 
 

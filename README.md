@@ -40,11 +40,10 @@ _*Contributions from other collaborative individuals and Team members are accept
 **Mentor:** [@katjaq](https://github.com/katjaq)
 
 
-<<<<<<< HEAD
-Track our issues at *Mozilla Open Leader 6* [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73) *link* 
+
+
 =======
 **Mozilla Open Leader 6**: [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73)
->>>>>>> 805437c0ad7862bf6a7fc27e527d5bad14f47073
 
 **Join the conversersations**: [Gitter](https://gitter.im/firefoxb2b/)
 

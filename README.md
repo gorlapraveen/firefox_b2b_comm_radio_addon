@@ -1,5 +1,7 @@
 # Firefox Browser to Browser communication for Internet Access : [Radio + Addon]
 
+[![Join the chat at https://gitter.im/firefoxb2b/Lobby](https://badges.gitter.im/firefoxb2b/Lobby.svg)](https://gitter.im/firefoxb2b/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## About the project:
 
 *Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers within the Radio frequency range with the helpful combination of* [GNU radio](https://gnuradio.org)-*Software Defined Radio(SDR software + RF Hardware) with Firefox web browser* **addon.**

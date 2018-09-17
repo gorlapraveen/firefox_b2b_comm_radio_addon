@@ -47,8 +47,8 @@ Knowledge on GNU radio, Low cost SDR hardware, System Communication , Firefox Ad
 Alpha >Beta > Stable release  with larger community participation & adaption.
 
 ### Contributors profile:
-**Contributo types and Ideal Contributors:**
-Intention for Community based Internet development and one or more skill set mentioned in “Resources Required”  and/or "About Project:What feature, release, or product can others work on during the program (September - December 2018)?" for contributions.
+**Contributor types and Ideal Contributors:**
+Intention for Community based Internet development and one or more skill set mentioned in “*Resources Required*”  and/or "*About Project:What feature, release, or product can others work on during the program (September - December 2018)?*" for contributions.
 
 ### User Profiles
 **Target users and early adapters:**

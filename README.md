@@ -40,18 +40,18 @@ _*Contributions from other collaborative individuals and Team members are **Welc
 
 -----------------------------------------------------------------------------------------------
 
-##  Resource Required:
+###  Resource Required:
 Knowledge on GNU radio, Low cost SDR hardware, System Communication , Firefox Addon framework and Open Internet  policies.
 
-## Key Metrics:
+### Key Metrics:
 Alpha >Beta > Stable release  with larger community participation & adaption.
 
-## Contributors profile:
-**Contributo types and Ideal Contributors**
+### Contributors profile:
+**Contributo types and Ideal Contributors:**
 Intention for Community based Internet development and one or more skill set mentioned in “Resources Required”  and/or "About Project:What feature, release, or product can others work on during the program (September - December 2018)?" for contributions.
 
-## User Profiles
-**Target users and early adapters**
+### User Profiles
+**Target users and early adapters:**
 Open Community, Hacktivist and everyone else who needs healthy internet access.
 
 ----------------------------------------------------------------------------------------------

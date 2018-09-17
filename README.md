@@ -23,7 +23,7 @@
 
 **What feature, release, or product can others work on during the program (September - December 2018)?**
 
-_*Contributions from other collaborative individuals and Team members are accepted in each and every area of the project. However, it is great to get collaboration for the following.*_
+_*Contributions from other collaborative individuals and Team members are **Welcome** in each and every area of the project. However, it is great to get collaboration for the following.*_
 
 1. Firefox integration with GNU radio.
 2. Developing browser add-ons for the above implementation.

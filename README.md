@@ -10,13 +10,17 @@
   2. This is by integrating (Firefox) browser with GNU radio -and SDR Hardware. Taking the advantage of developing and implementing Firefox addon(s). 
   3. Taking the advantage of complete Open policy implementation.
 
+
 **Advantages:**
-
-
  
-  1. This helps in communicating with nearby systems within the radio frequency range.
-  2.  Need no internet access(or WiFi network) for two or more system communication within the range.
-  3. Increases the anonymity and privacy of the user.
+*A system/Device which is censored(refused internet connection) to access Web, can Privately access Web:*
+
+  1. This helps in communicating with nearby systems(having Internet access) within the radio frequency range when your(or someones) Internet service Provider refused to provide user based internet and/or when there is a circumvent of Individual user defined Censorship for accesing Web.
+
+  2.  Need no direct internet access(or WiFi network) for two or more system communication within the range.
+
+  3. Increases the anonymity and privacy of the user by Hiding the true (IP) address of Orginating system.
+
   4. Avoiding the internal censorship while connecting to other systems for accessing the Internet. 
 
 ----------------------------------------------------------------------------------------------

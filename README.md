@@ -3,6 +3,10 @@
 ## About the project : Statement
 
 *Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers within the Radio frequency range with the helpful combination of* [GNU radio](https://gnuradio.org)-*Software Defined Radio(SDR software + RF Hardware) with Firefox web browser* **addon.**
+
+**Problem:** 
+  1. When user is refused for Internet connection(Wireless/Wired).
+  2. When Specific user is censored to access Web.
  
 **The Objectives and Implementations of This project includes:**
 
@@ -15,7 +19,7 @@
  
 *A system/Device which is censored(refused internet connection) to access Web, can Privately access Web:*
 
-  1. This helps in communicating with nearby systems(having Internet access) within the radio frequency range when your(or someones) Internet service Provider refused to provide user based internet and/or when there is a circumvent of Individual user defined Censorship for accesing Web.
+  1. This helps in communicating with nearby systems(having Internet access) within the radio frequency range when your(or someones) Internet service Provider refused to provide user based internet and/or when there is individual user defined Censorship for accesing Web.
 
   2.  Need no direct internet access(or WiFi network) for two or more system communication within the range.
 
@@ -33,6 +37,24 @@ _*Contributions from other collaborative individuals and Team members are **Welc
 2. Developing browser add-ons for the above implementation.
 3.  Proposing the Universal open policy recommendations for community involvement and implementation of this project. 
 4. Developing models for Adapting this project without technical assistance for the common user or the community.
+
+-----------------------------------------------------------------------------------------------
+
+##  Resource Required:
+Knowledge on GNU radio, Low cost SDR hardware, System Communication , Firefox Addon framework and Open Internet  policies.
+
+## Key Metrics:
+Alpha >Beta > Stable release  with larger community participation & adaption.
+
+## Contributors profile:
+**Contributo types and Ideal Contributors**
+Intention for Community based Internet development and one or more skill set mentioned in “Resources Required”  and/or "About Project:What feature, release, or product can others work on during the program (September - December 2018)?" for contributions.
+
+## User Profiles
+**Target users and early adapters**
+Open Community, Hacktivist and everyone else who needs healthy internet access.
+
+----------------------------------------------------------------------------------------------
 
 ### Team
 

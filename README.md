@@ -45,5 +45,5 @@ _*Contributions from other collaborative individuals and Team members are **Welc
 
 **Join the conversersations**: [Gitter](https://gitter.im/firefoxb2b/)
 
-**Make**[use of Open Canvas Template](https://docs.google.com/presentation/d/1_eya6vVXpaZOpXFZsZNbVHboROI4IPWy-poCnYTNtnQ/edit#slide=id.p) **for you projects** _*, fill out Open Canvas for your project/idea. Read the description of what goes in each field (aloud, if you’re working in a group) *_ 
+**Make** [use of Open Canvas Template](https://docs.google.com/presentation/d/1_eya6vVXpaZOpXFZsZNbVHboROI4IPWy-poCnYTNtnQ/edit#slide=id.p) **for you projects** *- fill out Open Canvas for your project/idea. Read the description of what goes in each field (aloud, if you’re working in a group)*
 

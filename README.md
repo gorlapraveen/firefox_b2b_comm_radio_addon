@@ -17,7 +17,7 @@
 
 **Advantages:**
  
-*A system/Device which is censored(refused internet connection) to access Web, can Privately access Web:*
+*A System/Device which is censored(refused internet connection) to access Web, can Privately access Web:*
 
   1. This helps in communicating with nearby systems(having Internet access) within the radio frequency range when your(or someones) Internet service Provider refused to provide user based internet and/or when there is individual user defined Censorship for accesing Web.
 

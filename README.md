@@ -77,7 +77,7 @@ Open Community, Hacktivist and everyone else who needs healthy internet access.
 
 **Open canvas**:[Presentation](https://docs.google.com/presentation/d/1tf_FpQOIh8cNfM7_uXHDcmdZLuHAa0DvxhA64zK-AFo/edit?usp=sharing)
 
-**Open Canvas Text**: [gitub-Document](https://#/convas.md) 
+**Open Canvas Text**: [gitub-Document](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/canvas.md) 
 
 **Join the conversersations**: [Gitter](https://gitter.im/firefoxb2b/)
 

@@ -1,4 +1,5 @@
-# Open acanvas Model ##
+# Title: _*Firefox Browser to Browser Communication for Internet Access*_ #
+## Open acanvas Model ##
 
 What | Text
 -----|----- 
@@ -10,7 +11,7 @@ What | Text
 **User Profiles**|Open Community, Hacktivist and Young people who prefer to circumvent Organizational Internet cenosorship.
 **Contributor Channel**|[Github](https://gitter.im/firefoxb2b/Lobby) [Gitter](https://gitter.im/firefoxb2b/Lobby) Adapt this work for their  personal projects with   community contribution.
 **User Channels**|[Github](https://gitter.im/firefoxb2b/Lobby) [Gitter](https://gitter.im/firefoxb2b/Lobby) Talks, Discussions and Continues development of project from contributors.
-**Unique Value Proposition**|A system/Device which is censored(refused internet connection) to access web, can privately access Web:[1](https://#) Radio Communication between Browser(System with no Internet connection/Web access) to Browser (nearby System with Internet/Web Access ). [2](https://#) Hide True (IP) address of the Originating system.
+**Unique Value Proposition**|A system/Device which is censored(refused internet connection) to access web, can privately access Web:[1](https://#). Radio Communication between Browser(System with no Internet connection/Web access) to Browser (nearby System with Internet/Web Access ). [2](https://#). Hide True (IP) address of the Originating system.
 
 
 

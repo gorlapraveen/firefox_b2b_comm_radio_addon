@@ -75,6 +75,10 @@ Open Community, Hacktivist and everyone else who needs healthy internet access.
 
 **Mozilla Open Leader 6**: [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73)
 
+**Open canvas**:[Presentation](https://docs.google.com/presentation/d/1tf_FpQOIh8cNfM7_uXHDcmdZLuHAa0DvxhA64zK-AFo/edit?usp=sharing)
+
+**Open Canvas Text**: [gitub-Document](https://#/convas.md) 
+
 **Join the conversersations**: [Gitter](https://gitter.im/firefoxb2b/)
 
 **Make** [use of Open Canvas Template](https://docs.google.com/presentation/d/1_eya6vVXpaZOpXFZsZNbVHboROI4IPWy-poCnYTNtnQ/edit#slide=id.p) **for you projects** *- fill out Open Canvas for your project/idea. Read the description of what goes in each field (aloud, if you’re working in a group)*

@@ -50,7 +50,7 @@ _*Contributions from other collaborative individuals and Team members are **Welc
 Knowledge on GNU radio, Low cost SDR hardware, System Communication , Firefox Addon framework and Open Internet  policies.
 
 ### Key Metrics:
-Alpha >Beta > Stable release  with larger community participation & adaption.
+Alpha[1-5 member, Implementation, Develop, test](https://#) >Beta[1 -10 members test and use ](https://#) > Stable[>40 members use ](https://#) release   with larger community participation & adaption.
 
 ### Contributors profile:
 **Contributor types and Ideal Contributors:**

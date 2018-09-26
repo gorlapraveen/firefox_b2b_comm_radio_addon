@@ -3,7 +3,7 @@
 
 What, How, Why | This, That
 -----|----- 
-**Problem** |1. User is refused for Internet Connection(wireless/wired).2.  When Specific user is censored to access web.
+**Problem** |1. User is unable to Internet Connection(wireless/wired).2. Censorship stops users to access the web.
 **Solution**|Firefox addon + GNU radio communication between two systems : for b2b communication
 **Key Metrics**|Alpha [1-5 users,  test, develop]>Beta[1-10, test , use] > Stable[>40]  with larger community participation & adaptation.
 **Resources Required**|Knowledge on GNU radio, - Python framework, Low cost SDR hardware, System Communication , Firefox Addon framework and Open Internet  policies..

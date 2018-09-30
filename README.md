@@ -75,6 +75,8 @@ Open Community, Hacktivist and everyone else who needs healthy internet access.
 
 **Mozilla Open Leader 6**: [Issue](https://github.com/MozillaFestival/open-leaders-6/issues/73)
 
+**Project Roadmap** : at [Issue #6 ](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/issues/6) in this repo.
+
 **Progress tracking**:[Github-Projects-Dashboard ](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/projects/1)
 
 **Open canvas**:[Presentation](https://docs.google.com/presentation/d/1tf_FpQOIh8cNfM7_uXHDcmdZLuHAa0DvxhA64zK-AFo/edit?usp=sharing)

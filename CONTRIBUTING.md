@@ -10,5 +10,5 @@ Find Contributors list for this project. Folks intended for open web development
     - Name: `FirefoxB2BRC`
     - Theme containing `GNURadio` `+` `Firefox` for open internet.
     - Size: `320 x 320 px` - `450 x 450 px`
-    - Open Design formats are appreciated. Make sure to send `SVG` along the `png` 
+    - Open Design formats are appreciated. Make sure to send `SVG` along with `png` 
     

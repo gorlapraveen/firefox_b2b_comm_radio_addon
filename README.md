@@ -4,40 +4,43 @@
 
 ### Vision : 
 
-To design a system for ease of Individual Internet access and circumventing Individual censorship while working with open communities.
+To design a system for ease of Individual Internet access and circumventing Individual censorship while working with open 
+communities.
 
 ### Statement:
 
-*Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers within the Radio frequency range with the helpful combination of* [GNU radio](https://gnuradio.org)-*Software Defined Radio(SDR software + RF Hardware) with Firefox web browser* **addon.**
+Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers 
+within the Radio frequency range with the helpful combination of* [GNU radio](https://gnuradio.org)-Software Defined Radio(SDR 
+software + RF Hardware) with Firefox web browser addon.
 
 **Problem:** 
-  1. When user is refused for Internet connection(Wireless/Wired).
-  2. When Specific user is censored to access Web.
+1. When user is refused for Internet connection(Wireless/Wired).
+2. When Specific user is censored to access Web.
  
 **The Objectives and Implementations of This project includes:**
-
-  1. Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers within the Radiofrequency range.
-  2. This is by integrating (Firefox) browser with GNU radio -and SDR Hardware. Taking the advantage of developing and implementing Firefox addon(s). 
-  3. Taking the advantage of complete Open policy implementation.
+1. Establishing the Radio communication between two or more systems by establishing communication between two or more open 
+browsers within the Radiofrequency range.
+2. This is by integrating (Firefox) browser with GNU radio -and SDR Hardware. Taking the advantage of developing and implementing 
+Firefox addon(s). 
+3. Taking the advantage of complete Open policy implementation.
 
 
 **Advantages:**
  
-*A System/Device which is censored(refused internet connection) to access Web, can Privately access Web:*
+A System/Device which is censored(refused internet connection) to access Web, can Privately access Web:
 
-  1. This helps in communicating with nearby systems(having Internet access) within the radio frequency range when your(or someones) Internet service Provider refused to provide user based internet and/or when there is individual user defined Censorship for accesing Web.
-
-  2.  Need no direct internet access(or WiFi network) for two or more system communication within the range.
-
-  3. Increases the anonymity and privacy of the user by Hiding the true (IP) address of Orginating system.
-
-  4. Avoiding the internal censorship while connecting to other systems for accessing the Internet. 
+1. This helps in communicating with nearby systems(having Internet access) within the radio frequency range when your(or 
+someones) Internet service Provider refused to provide user based internet and/or when there is individual user defined 
+Censorship for accesing Web.
+2. Need no direct internet access(or WiFi network) for two or more system communication within the range.
+3. Increases the anonymity and privacy of the user by Hiding the true (IP) address of Orginating system.
+4. Avoiding the internal censorship while connecting to other systems for accessing the Internet. 
 
 ----------------------------------------------------------------------------------------------
 
 **What feature, release, or product can others work on during the program (September - December 2018)?**
 
-_*Contributions from other collaborative individuals and Team members are **Welcome** in each and every area of the project. However, it is great to get collaboration for the following.*_
+Contributions are welcome in each and every area of the project:
 
 1. Firefox integration with GNU radio.
 2. Developing browser add-ons for the above implementation.
@@ -50,7 +53,8 @@ _*Contributions from other collaborative individuals and Team members are **Welc
 Knowledge on GNU radio, Low cost SDR hardware, System Communication , Firefox Addon framework and Open Internet  policies.
 
 ### Key Metrics:
-Alpha[(1-5 member, Implementation, Develop, test)](https://#) >Beta[(1 -10 members test and use)](https://#) > Stable[(>40 members use)](https://#) release   with larger community participation & adaption.
+Alpha[(1-5 member, Implementation, Develop, test)](https://#) >Beta[(1 -10 members test and use)](https://#) > Stable[(>40 
+members use)](https://#) release   with larger community participation & adaption.
 
 ----------------------------------------------------------------------------------------------
 
@@ -79,5 +83,5 @@ Alpha[(1-5 member, Implementation, Develop, test)](https://#) >Beta[(1 -10 membe
 
 -------------------------------------------------------------------------------------------------
 
-**Make** [use of Open Canvas Template](https://docs.google.com/presentation/d/1_eya6vVXpaZOpXFZsZNbVHboROI4IPWy-poCnYTNtnQ/edit#slide=id.p) **for you projects** *- fill out Open Canvas for your project/idea. Read the description of what goes in each field (aloud, if you’re working in a group)*
-
+**Make** [use of Open Canvas Template](https://docs.google.com/presentation/d/1_eya6vVXpaZOpXFZsZNbVHboROI4IPWy-poCnYTNtnQ
+/edit#slide=id.p) for you projects.

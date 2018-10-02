@@ -41,7 +41,7 @@ _*Contributions from other collaborative individuals and Team members are **Welc
 
 1. Firefox integration with GNU radio.
 2. Developing browser add-ons for the above implementation.
-3.  Proposing the Universal open policy recommendations for community involvement and implementation of this project. 
+3. Proposing the Universal open policy recommendations for community involvement and implementation of this project. 
 4. Developing models for Adapting this project without technical assistance for the common user or the community.
 
 -----------------------------------------------------------------------------------------------
@@ -51,14 +51,6 @@ Knowledge on GNU radio, Low cost SDR hardware, System Communication , Firefox Ad
 
 ### Key Metrics:
 Alpha[(1-5 member, Implementation, Develop, test)](https://#) >Beta[(1 -10 members test and use)](https://#) > Stable[(>40 members use)](https://#) release   with larger community participation & adaption.
-
-### Contributors profile:
-**Contributor types and Ideal Contributors:**
-Intention for Community based Internet development and one or more skill set mentioned in “*Resources Required*”  and/or "*About Project:What feature, release, or product can others work on during the program (September - December 2018)?*" for contributions.
-
-### User Profiles
-**Target users and early adapters:**
-Open Community, Hacktivist and everyone else who needs healthy internet access.
 
 ----------------------------------------------------------------------------------------------
 

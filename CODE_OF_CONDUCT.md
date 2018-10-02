@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct : While being in this project
 
 ## Our Pledge
 

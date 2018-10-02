@@ -61,7 +61,7 @@ members use)](https://#) release   with larger community participation & adaptio
 ### Team
 
 **Project Lead:**
-[@gorlapraveen]((https://github.com/gorlapraveen)) 
+[@gorlapraveen](https://github.com/gorlapraveen) 
 [@tejasri19](https://github.com/tejasri19)
 [@rajasekharponakala](https://github.com/rajasekharponakala)
 

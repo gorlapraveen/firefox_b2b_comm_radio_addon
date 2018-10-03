@@ -1,6 +1,6 @@
 # Contributors
 
-Find Contributors list for this project. Folks intended for open web development are most welcomed!. 
+Find Contributors list of Guidelines for this project. Folks intended for open web development are most welcomed!. 
 
 ## Contributing areas:
   * Addon JS snippets for better integration.

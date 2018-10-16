@@ -1,6 +1,9 @@
 # Contributors
+Greetings :raised_hand: for the contributors :blush:
 
-Find Contributors list of Guidelines for this project. Folks intended for open web development are most welcomed!. 
+Fello open web developers are most welcomed!. :heart_eyes:
+
+# How can i contribute? 
 
 ## Contributing areas:
   * Addon JS snippets for better integration.

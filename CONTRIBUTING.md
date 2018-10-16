@@ -1,9 +1,11 @@
 # Contributors
 Greetings :raised_hand: for the contributors :blush:
 
-Fello open web developers are most welcomed!. :heart_eyes:
+Fellow open web developers are most welcomed!. :heart_eyes:
 
 # How can i contribute? 
+
+Following are help-in-need domains. We are open to accept any kind of contributions.
 
 ## Contributing areas:
   * Addon JS snippets for better integration.

@@ -40,7 +40,7 @@ Censorship for accesing Web.
 
 **What feature, release, or product can others work on during the program (September - December 2018)?**
 
-Contributions are welcome in each and every area of the project: [Issues](/issues) and [Contributing Guidelines](/CONTRIBUTING.md)
+Contributions are welcome in each and every area of the project: [Issues](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/issues) and [Contributing Guidelines](/CONTRIBUTING.md)
 
 1. Firefox integration with GNU radio.
 2. Developing browser add-ons for the above implementation.
@@ -79,7 +79,7 @@ members use)](https://#) release   with larger community participation & adaptio
 
 **Open canvas**:[Presentation](https://docs.google.com/presentation/d/1tf_FpQOIh8cNfM7_uXHDcmdZLuHAa0DvxhA64zK-AFo/edit?usp=sharing)
 
-**Open Canvas Text**: [gitub-Document](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/canvas.md) 
+**Open Canvas Text**: [github-Document](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/canvas.md) 
 
 **Join the conversersations**: [Gitter](https://gitter.im/firefoxb2b/)
 

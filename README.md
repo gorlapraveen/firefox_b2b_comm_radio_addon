@@ -10,7 +10,7 @@ communities.
 ### Statement:
 
 Establishing the Radio communication between two or more systems by establishing communication between two or more open browsers 
-within the Radio frequency range with the helpful combination of* [GNU radio](https://gnuradio.org)-Software Defined Radio(SDR 
+within the Radio frequency range with the helpful combination of [GNU radio](https://gnuradio.org)-Software Defined Radio(SDR 
 software + RF Hardware) with Firefox web browser addon.
 
 **Problem:** 
@@ -40,7 +40,7 @@ Censorship for accesing Web.
 
 **What feature, release, or product can others work on during the program (September - December 2018)?**
 
-Contributions are welcome in each and every area of the project:
+Contributions are welcome in each and every area of the project: [Issues](/issues) and [Contributing Guidelines](/CONTRIBUTING.md)
 
 1. Firefox integration with GNU radio.
 2. Developing browser add-ons for the above implementation.
@@ -66,6 +66,8 @@ members use)](https://#) release   with larger community participation & adaptio
 [@rajasekharponakala](https://github.com/rajasekharponakala)
 
 **Mentor:** [@katjaq](https://github.com/katjaq)
+
+**Project Ststus:** Ongoing. 
 
 ----------------------------------------------------------------------------------------------
 

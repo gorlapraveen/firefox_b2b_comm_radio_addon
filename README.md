@@ -70,7 +70,7 @@ members use)](https://#) release   with larger community participation & adaptio
 
 **Mentor:** [@katjaq](https://github.com/katjaq)
 
-**Project Ststus:** Ongoing. 
+**Project Status:** Ongoing. 
 
 ----------------------------------------------------------------------------------------------
 

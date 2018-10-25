@@ -5,6 +5,7 @@
 <img src="/Logo/FirefoxB2BRC.png" text="Logo" width="25%" />
 </p>
 
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)](/LICENSE)
 ### Vision : 
 
 To design a system for ease of Individual Internet access and circumventing Individual censorship while working with open 

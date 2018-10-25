@@ -1,9 +1,9 @@
 # Firefox Browser to Browser Radio communication for Internet Access : [Radio + Addon]
 
 ## About the project :
-
-  <img src="/Logo/FirefoxB2BRC.png" alt="Logo" align="middle" width="200" />
-
+<p align="center">
+<img src="/Logo/FirefoxB2BRC.png" width="25%" />
+</p>
 
 ### Vision : 
 

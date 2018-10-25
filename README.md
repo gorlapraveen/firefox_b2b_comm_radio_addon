@@ -4,7 +4,7 @@
 <p align="center">
 <img src="/Logo/FirefoxB2BRC.png" text="Logo" width="25%" />
 </p>
-
+[![Status](https://img.shields.io/badge/Status-Ongoing-green.svg)](#)
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)](/LICENSE)
 ### Vision : 
 

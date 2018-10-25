@@ -2,7 +2,7 @@
 
 ## About the project :
 <p align="center">
-<img src="/Logo/FirefoxB2BRC.png" width="25%" />
+<img src="/Logo/FirefoxB2BRC.png" text="Logo" width="25%" />
 </p>
 
 ### Vision : 

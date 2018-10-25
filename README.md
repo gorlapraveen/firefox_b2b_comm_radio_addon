@@ -6,9 +6,7 @@
 </p>
 
 [![Status](https://img.shields.io/badge/Status-Ongoing-green.svg)](/#)
-
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)](/LICENSE)
-
 [![Contributing](https://img.shields.io/badge/Contributor-Guidelines-brightgreen.svg)](/CONTRIBUTING.md)
 
 ### Vision : 

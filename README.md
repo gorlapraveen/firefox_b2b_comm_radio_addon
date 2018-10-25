@@ -8,6 +8,10 @@
 [![Status](https://img.shields.io/badge/Status-Ongoing-green.svg)](/#)
 [![AUR](https://img.shields.io/badge/License-GPLv3-blue.svg)](/LICENSE)
 [![Contributing](https://img.shields.io/badge/Contributor-Guidelines-brightgreen.svg)](/CONTRIBUTING.md)
+[![Progress](https://img.shields.io/badge/Progress-tracking-brightgreen.svg)](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/projects/1)
+[![Roadmap](https://img.shields.io/badge/Project-Roadmap-yellowgreen.svg)](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/issues/6)
+[![Gitter](https://img.shields.io/badge/Communication%20Channel-Gitter-orange.svg)](https://gitter.im/firefoxb2b/Lobby)
+
 
 ### Vision : 
 

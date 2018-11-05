@@ -17,3 +17,5 @@ Following are help-in-need domains. We are open to accept any kind of contributi
     - Size: `320 x 320 px` - `450 x 450 px`
     - Open Design formats are appreciated. Make sure to send `SVG` along with `png` 
     
+## List of contributers :heart:
+1. Jaydeep Godara (@JaydeepGo): Icon design

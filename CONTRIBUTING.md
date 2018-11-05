@@ -18,4 +18,4 @@ Following are help-in-need domains. We are open to accept any kind of contributi
     - Open Design formats are appreciated. Make sure to send `SVG` along with `png` 
     
 ## List of contributers :heart:
-1. Jaydeep Godara (@JaydeepGo): Icon design
+1. [Jaydeep Godara](https://github.com/JaydeepGo): Icon design

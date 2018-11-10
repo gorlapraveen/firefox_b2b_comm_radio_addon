@@ -95,6 +95,8 @@ members use)](https://#) release   with larger community participation & adaptio
 
 **Join the conversersations**: [Gitter](https://gitter.im/firefoxb2b/)
 
+[![Badges](https://img.shields.io/badge/Project%20Badges%20by-shields.io-brightgreen.svg)](https://shields.io/#/)
+
 -------------------------------------------------------------------------------------------------
 
 **Make** [use of Open Canvas Template](https://docs.google.com/presentation/d/1_eya6vVXpaZOpXFZsZNbVHboROI4IPWy-poCnYTNtnQ

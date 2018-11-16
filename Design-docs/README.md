@@ -1,5 +1,7 @@
 ## Addon design flexibility with Hardware : User Interface 
 
+
+
 **Note:** :   In the documentation,
 
 1. _*[**Addon Configuration**]*_ :is used to describe about  implementation as an **Addon Part**.

@@ -1,6 +1,6 @@
 ## Addon design flexibility with Hardware : User Interface 
 
-
+https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/icon/noun_two%20way%20direction_581845.png
 
 **Note:** :   In the documentation,
 

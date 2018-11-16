@@ -2,6 +2,12 @@
 
 https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/icon/noun_two%20way%20direction_581845.png
 
+<p align ="center">First Client</p>
+<p align="center">
+<img src="https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/icon/noun_double%20arrow_236718.png" text="Logo" width="10%" />
+</p>
+<p align ="center">Second Client</p>
+
 **Note:** :   In the documentation,
 
 1. _*[**Addon Configuration**]*_ :is used to describe about  implementation as an **Addon Part**.

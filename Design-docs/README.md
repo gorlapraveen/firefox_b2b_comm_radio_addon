@@ -4,7 +4,7 @@
 
 <p align ="center">First Client</p>
 <p align="center">
-<img src="https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/icon/noun_double%20arrow_236718_!.png" text="Logo" width="10%" />
+<img src="https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/icon/noun_double%20arrow_236718_1.png" text="Logo" width="10%" />
 </p>
 <p align ="center">Second Client</p>
 

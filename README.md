@@ -104,5 +104,4 @@ members use)](https://#) release   with larger community participation & adaptio
 
 -------------------------------------------------------------------------------------------------
 
-**Make** [use of Open Canvas Template](https://docs.google.com/presentation/d/1_eya6vVXpaZOpXFZsZNbVHboROI4IPWy-poCnYTNtnQ
-/edit#slide=id.p) for you projects.
+**Make** [use of Open Canvas Template](https://tinyurl.com/y97qug4v) for you projects.

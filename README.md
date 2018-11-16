@@ -5,6 +5,7 @@
 <img src="/icon/FirefoxB2BRC.png" text="Logo" width="25%" />
 </p>
 
+[![Design](https://img.shields.io/badge/Project%20Design-Docs-00cc99.svg)](/Design-docs/README.md)
 [![Status](https://img.shields.io/badge/Status-Ongoing-green.svg)](#)
 [![Production](https://img.shields.io/badge/Production-Not%20yet-orange.svg)](#)
 [![AUR](https://img.shields.io/badge/License-GPLv3-blue.svg)](/LICENSE)

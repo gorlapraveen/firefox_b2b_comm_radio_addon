@@ -21,15 +21,15 @@ Who initiates the process and want to connect the **other(second) client (/end W
 
     1. Invoke the system scripts(which will be installed in the local system during installation or user will have flexibility to manually install) to inform the other client-side.
     
-3. _*[**Addon Configuration**]*_  Then **Option to Provide input**(i, ii) : _*[SDR Configuration]*_ to Communiate Text/text-file and Short Voice(for now), For now direct phrasing of HTMl page is not supported.
+3. _*[**Addon Configuration**]*_  Then **Option to Provide input**(i, ii) : _*[**SDR Configuration**]*_ to Communiate Text/text-file and Short Voice(for now), For now direct phrasing of HTMl page is not supported.
     1. For **Text** : Should **provide input method** and store them locally in the sytem.
     2. For **Voice(Short)** : Should **provide input method** and store them locally in the sytem.
     
- 4. _*[**Addon Configuration**]*_ Finally send button  to invoke : _*[SDR Configuration]*_ SDR hardware and its related files to send the locally stored file(i.e the file or text in (3)). 
+ 4. _*[**Addon Configuration**]*_ Finally send button  to invoke : _*[**SDR Configuration**]*_ SDR hardware and its related files to send the locally stored file(i.e the file or text in (3)). 
  
  5.  **Receiving the information:** Showing the received information.
  
-     1. _*[**SDR Configuration**]*_ At SDR part, the received text/file will be stored as single file - _*[Addon Configuratio]*_ will be able to show up that file
+     1. _*[**SDR Configuration**]*_ At SDR part, the received text/file will be stored as single file - _*[**Addon Configuration**]*_ will be able to show up that file
     
     
  ----------------------------------------------------------------------------------------------------------------------------------
@@ -52,7 +52,7 @@ Who initiates the process and want to connect the **other(second) client (/end W
       2. Note: SDR should always be in tranreceiving (at least receiving mode) for accepting requests.
 3.  **Receiving the information:** Showing the received information.
  
-     1. _*[**SDR Configuration**]*_ At SDR part, the received text/file will be stored as single file - _*[Addon Configuratio]*_ will be able to show up that file.
+     1. _*[**SDR Configuration**]*_ At SDR part, the received text/file will be stored as single file - _*[**Addon Configuration**]*_ will be able to show up that file.
      
 4. _*[**Addon Configuration**]*_  Option to **initiate the confirm** to connect the other end.
 
@@ -60,11 +60,11 @@ Who initiates the process and want to connect the **other(second) client (/end W
     
 
     
-5. _*[**Addon Configuration**]*_  Then **Option to Provide input**(i, ii) : _*[SDR Configuration]*_ to Communiate Text/text-file or Short Voice(for now), For now direct phrasing of HTMl page is not supported.
+5. _*[**Addon Configuration**]*_  Then **Option to Provide input**(i, ii) : _*[**SDR Configuration**]*_ to Communiate Text/text-file or Short Voice(for now), For now direct phrasing of HTMl page is not supported.
     1. For **Text** : Should **provide input method** and store them locally in the sytem.
     2. For **Voice(Short)** : Should **provide input method** and store them locally in the sytem.
     
- 6. _*[**Addon Configuration**]*_ Finally send button  to invoke : _*[SDR Configuration]*_ SDR hardware and its related files to send the locally stored file(i.e the file or text in (3)). 
+ 6. _*[**Addon Configuration**]*_ Finally send button  to invoke : _*[**SDR Configuration**]*_ SDR hardware and its related files to send the locally stored file(i.e the file or text in (3)). 
  
 
     

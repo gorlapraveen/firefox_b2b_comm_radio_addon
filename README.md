@@ -37,6 +37,10 @@ Firefox addon(s).
 3. Taking the advantage of complete Open policy implementation.
 
 
+**System Design Implementation**: [HERE]( /Design-docs/README.md )
+
+
+
 **Advantages:**
  
 A System/Device which is censored(refused internet connection) to access Web, can Privately access Web:

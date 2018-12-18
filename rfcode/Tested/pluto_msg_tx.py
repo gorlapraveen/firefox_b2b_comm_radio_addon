@@ -3,7 +3,7 @@
 ##################################################
 # GNU Radio Python Flow Graph
 # Title: Pluto Msg Tx
-# Generated: Wed Dec 19 05:58:17 2018
+# Generated: Wed Dec 19 05:21:06 2018
 ##################################################
 
 if __name__ == '__main__':
@@ -34,6 +34,8 @@ import foo
 import ieee802_11
 import iio
 import pmt
+file_text = open('encode.txt', 'r') 
+a = file_text.read()
 
 
 class pluto_msg_tx(gr.top_block, Qt.QWidget):
@@ -72,7 +74,6 @@ class pluto_msg_tx(gr.top_block, Qt.QWidget):
         self.interval = interval = 10
         self.freq = freq =  3500000000
         self.encoding = encoding = 0
-
         ##################################################
         # Blocks
         ##################################################
@@ -157,7 +158,8 @@ class pluto_msg_tx(gr.top_block, Qt.QWidget):
         self.blocks_null_source_0 = blocks.null_source(gr.sizeof_gr_complex*1)
         self.blocks_multiply_const_vxx_0 = blocks.multiply_const_vcc((0.6, ))
         (self.blocks_multiply_const_vxx_0).set_min_output_buffer(100000)
-        self.blocks_message_strobe_0_0 = blocks.message_strobe(pmt.intern("".join("A0EBwMCsC4Bhew1nB/u0sBeASH68WUkhNCSrRGVg/v4J1ZArZhcrosA4V7NZaslvDKSVOeOnI3O XKgj9bH9+nm9mIStOhuBqKM2p5pWFn9Y+25K5nmwRpsp9zvqP7ZtF8z9VJbOgq4HmTAEeHM32hpp FkhDbyXTCdHaRL3pxylFpYHMylQ2GCwiSvWF4fVc2zRFlI8Qs+xG7yTQcGP4hqE65UAlRm/3noEi MTtTsUbSMptuqfx71twd2kNc5KpX7ykATAUB3PXEDBV7YE6bTcQACqCr+/j/uH/ahu8Pv3Pghxks e6wNVuxU0g9ugogh25opw8JKMPKt780MbctetgmMeXj7E7WiSHreAoH+ufCoWqV/0OitA5Ov+ZWF cW+8pYllmCTRyUuJFVfYOPPzng==" )), interval)
+###Set Text Message Below.
+        self.blocks_message_strobe_0_0 = blocks.message_strobe(pmt.intern("".join(a)), interval)
 
         ##################################################
         # Connections

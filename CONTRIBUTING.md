@@ -8,8 +8,8 @@ Fellow open web developers are most welcomed!. :heart_eyes:
 Following are help-in-need domains. We are open to accept any kind of contributions.
 
 ## Contributing areas:
-  * Addon JS snippets for better integration.
-  * GNU Radio scripts development.
+  * Addon JS snippets for better integration. See [Project Design Docs](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/Design-docs/README.md)
+  * GNU Radio scripts development. See [Project Design Docs](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/Design-docs/README.md)
   * Open Web practices.
   * Project logo design - Logo should represent:
     - Name: `FirefoxB2BRC`

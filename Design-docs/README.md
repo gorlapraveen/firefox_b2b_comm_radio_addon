@@ -4,7 +4,7 @@
 
 <p align ="center">First Client</p>
 <p align="center">
-<img src="https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/icon/noun_double%20arrow_236718_!.png" text="Logo" width="10%" />
+<img src="https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/blob/master/icon/noun_double%20arrow_236718_1.png" text="Logo" width="10%" />
 </p>
 <p align ="center">Second Client</p>
 
@@ -19,7 +19,7 @@
 
 ## On First client side(with no internet Connection)
 
-Who initiates the process and want to connect the **other(second) client (/end With Inteternt)** side for information transreceiving.
+Who initiates the process and want to connect the **other(second) client (/end With Internet)** side for information transreceiving.
 
 1. _*[**Addon Configuration**]*_  Addon must have user flexibility - Option to choose the Software Defined Radio(Hardware part of SDR).
 
@@ -48,7 +48,7 @@ Who initiates the process and want to connect the **other(second) client (/end W
  
  ## On Second client side(With Internet Connection) : 
  
- Who accepts the connection from the **other(First) client (/end Without -Intetrnet)** side for information transreceiving.
+ Who accepts the connection from the **other(First) client (/end Without -Internet)** side for information transreceiving.
 
 1. _*[**Addon Configuration**]*_  Addon must have user flexibility - Option to choose the Software Defined Radio(Hardware part of SDR).
 
@@ -79,4 +79,6 @@ Who initiates the process and want to connect the **other(second) client (/end W
 
     
     
+ ----------------------------------------------------------------------------------------------------------------------------
  
+ `A Partial Documentation`

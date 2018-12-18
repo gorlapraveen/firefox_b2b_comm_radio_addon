@@ -5,6 +5,7 @@
 <img src="/icon/FirefoxB2BRC.png" text="Logo" width="25%" />
 </p>
 
+[![Design](https://img.shields.io/badge/Project%20Design-Docs-00cc99.svg)](/Design-docs/README.md)
 [![Status](https://img.shields.io/badge/Status-Ongoing-green.svg)](#)
 [![Production](https://img.shields.io/badge/Production-Not%20yet-orange.svg)](#)
 [![AUR](https://img.shields.io/badge/License-GPLv3-blue.svg)](/LICENSE)
@@ -35,6 +36,10 @@ browsers within the Radiofrequency range.
 2. This is by integrating (Firefox) browser with GNU radio -and SDR Hardware. Taking the advantage of developing and implementing 
 Firefox addon(s). 
 3. Taking the advantage of complete Open policy implementation.
+
+
+**System Design Implementation**: [HERE]( /Design-docs/README.md )
+
 
 
 **Advantages:**
@@ -99,5 +104,4 @@ members use)](https://#) release   with larger community participation & adaptio
 
 -------------------------------------------------------------------------------------------------
 
-**Make** [use of Open Canvas Template](https://docs.google.com/presentation/d/1_eya6vVXpaZOpXFZsZNbVHboROI4IPWy-poCnYTNtnQ
-/edit#slide=id.p) for you projects.
+**Make** [use of Open Canvas Template](https://tinyurl.com/y97qug4v) for you projects.

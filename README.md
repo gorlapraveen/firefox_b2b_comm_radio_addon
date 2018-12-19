@@ -7,7 +7,7 @@
 
 [![Design](https://img.shields.io/badge/Project%20Design-Docs-00cc99.svg)](/Design-docs/README.md)
 [![Status](https://img.shields.io/badge/Status-Ongoing-green.svg)](#)
-[![Production](https://img.shields.io/badge/Production-Not%20yet-orange.svg)](#)
+[![Production](https://img.shields.io/badge/Production-Partial-orange.svg)](#)
 [![AUR](https://img.shields.io/badge/License-GPLv3-blue.svg)](/LICENSE)
 [![Contributing](https://img.shields.io/badge/Contributor-Guidelines-brightgreen.svg)](/CONTRIBUTING.md)
 [![Progress](https://img.shields.io/badge/Progress-tracking-brightgreen.svg)](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/projects/1)

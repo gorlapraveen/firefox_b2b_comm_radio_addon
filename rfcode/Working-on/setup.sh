@@ -33,7 +33,7 @@ if [ $(dpkg-query -W -f='${Status}' libaio-dev libusb-1.0-0-dev libserialport-de
  echo SerialCommunication packages...
  echo Installing them....
  sudo apt -y install libaio-dev libusb-1.0-0-dev libserialport-dev libxml2-dev libavahi-client-dev autoconf;
- sudo apt -y -f install;  sudo apt install tshark* sudo apt install tshark*
+ sudo apt -y -f install;  
 else
  echo 'SerialCommunication packages Already Installed'
 fi
@@ -42,14 +42,13 @@ if [ $(dpkg-query -W -f='${Status}' sigrok*  libserialport0  libserialport-dev 2
  echo Other SerialCommunication packages...
  echo Installing them....
  sudo apt -y install sigrok*  libserialport0  libserialport-dev;
- sudo apt -y -f install;  sudo apt install tshark*
-
+ sudo apt -y -f install; 
 
 else
  echo 'Required SerialCommunication packages Already Installed'
 fi
 
-sudo apt -y install gr-iio* iiod libad9361* libgnuradio-iio0 libiio*; sudo apt install tshark*
+sudo apt -y install gr-iio* libad9361* libgnuradio-iio0 libiio*;
 
 
 echo
@@ -63,7 +62,7 @@ bash -c "cd Adlam_pluto_required && git clone https://github.com/analogdevicesin
 
 bash -c "cd Adlam_pluto_required/gr-libad9361-iio/ && cmake ."
 bash -c "cd Adlam_pluto_required/gr-libad9361-iio/ && make"
-bash -c "cd Adlam_pluto_required/gr-libad9361-iio/ && sudo make install" sudo apt install tshark*
+bash -c "cd Adlam_pluto_required/gr-libad9361-iio/ && sudo make install"
 
 
 
@@ -75,7 +74,7 @@ bash -c "sudo ldconfig"
 
 bash -c "cp -r /usr/local/lib/python2.7/dist-packages/gnuradio/iio /usr/lib/python2.7/dist-packages/gnuradio/"
 
-echo  sudo apt install tshark*
+echo  
 
 
 echo
@@ -112,8 +111,7 @@ echo Installing gfortran, lapack, itpp packages
 sudo apt -y  install gfortran
 sudo apt -y install libatlas-base-dev libblas-dev liblapack-dev
 bash -c "cd ../required/itpp-4.3.1/ && mkdir build"
-bash -c "cd ../required/itpp-4.3.1/build && cmake ." sudo apt install tshark*
-
+bash -c "cd ../required/itpp-4.3.1/build && cmake ."
 
 bash -c "cd ../required/itpp-4.3.1/build && make"
 bash -c "cd ../required/itpp-4.3.1/build && sudo make install."

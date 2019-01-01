@@ -1,4 +1,4 @@
-## Addon design flexibility with Hardware : User Interface 
+. ## Addon design flexibility with Hardware : User Interface 
 
 
 
@@ -81,4 +81,4 @@ Who initiates the process and want to connect the **other(second) client (/end W
     
  ----------------------------------------------------------------------------------------------------------------------------
  
- `A Partial Documentation`
+ `A Partial Documentation`by @gorlapraveen

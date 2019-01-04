@@ -1,4 +1,4 @@
-# Firefox Browser to Browser Radio communication for Internet Access : [Radio + Addon]
+# Browser to Browser Radio communication for Internet Access : [Radio + Addon]
 
 ## About the project :
 <p align="center">

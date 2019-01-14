@@ -76,7 +76,7 @@ bash -c "cp -r /usr/local/lib/python2.7/dist-packages/gnuradio/iio /usr/lib/pyth
 
 echo  
 
-after_script:
+
 echo
 echo Installation of Adlam pltuo is completed
 echo 
@@ -101,7 +101,7 @@ echo
 
 bash -c "cd Adlam_pluto_required && git clone https://github.com/bastibl/gr-ieee802-11.git gr-ieee802-11"
 bash -c "mkdir Adlam_pluto_required/gr-ieee802-11/build"
-echo 'Installing the gr-foo, a meta package required for GNU Radio IEEE802.11 Implementation'
+echo 'Installing the GNU Radio IEEE802.11 Implementation'
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && cmake .." Searxes 
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && make"
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && sudo make install"
@@ -130,6 +130,16 @@ bash -c "cd ../required/itpp-4.3.1/build && sudo make install."
 
 sudo apt -y install libatlas-base-dev libblas-dev liblapack-dev
 sudo apt -f install
+
+
+echo 'Installing RF-TAP, gr-rftap libraries for gnu radio'
+bash -c "cd Adlam_pluto_required && git clone https://github.com/rftap/gr-rftap gr-rftap"
+bash -c "mkdir Adlam_pluto_required/gr-rftap/build"
+echo 'Installing the gr-rftap, a meta package required for GNU Radio IEEE802.11 Implementation'
+bash -c "cd Adlam_pluto_required/gr-rftap/build && cmake .." 
+bash -c "cd Adlam_pluto_required/gr-rftap/build && make"
+bash -c "cd Adlam_pluto_required/gr-rftap/build && sudo make install"
+bash -c "cd Adlam_pluto_required/ && sudo ldconfig"
 
 echo Installing wireshark and tshark.......
 sudo apt -y install wireshark*

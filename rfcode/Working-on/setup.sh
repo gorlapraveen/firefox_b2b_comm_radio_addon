@@ -99,11 +99,10 @@ bash -c "sudo ldconfig"
 
 echo
 
-sudo apt-get install liblog4cpp5-dev
 bash -c "cd Adlam_pluto_required && git clone https://github.com/bastibl/gr-ieee802-11.git gr-ieee802-11"
 bash -c "mkdir Adlam_pluto_required/gr-ieee802-11/build"
 echo 'Installing the gr-foo, a meta package required for GNU Radio IEEE802.11 Implementation'
-bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && cmake .."
+bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && cmake .." Searxes 
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && make"
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && sudo make install"
 bash -c "sudo ldconfig"
@@ -124,20 +123,21 @@ echo Installing gfortran, lapack, itpp packages
 sudo apt -y  install gfortran
 sudo apt -y install libatlas-base-dev libblas-dev liblapack-dev
 bash -c "cd ../required/itpp-4.3.1/ && mkdir build"
-bash -c "cd ../required/itpp-4.3.1/build && cmake ."
+bash -c "cd ../required/itpp-4.3.1/build && cmake .."
 
 bash -c "cd ../required/itpp-4.3.1/build && make"
 bash -c "cd ../required/itpp-4.3.1/build && sudo make install."
 
 sudo apt -y install libatlas-base-dev libblas-dev liblapack-dev
 sudo apt -f install
+
 echo Installing wireshark and tshark.......
 sudo apt -y install wireshark*
-sudo apt -y install tshark*after_script:
+sudo apt -y install tshark*
 sudo apt -y -f install
 echo
 echo
 echo ---------------------------------------------------------------------------
 echo 'If there any errors during installation, please manually install individual packages seeking help(https://gitlab.com/gorlapraveen/gnu_radio_localization/blob/master/README.md) this is only for installing Radio Frequency Packages, For any other firefox related packages see other channels'
-echo ------------------------------------------------------------------------------------------------------------
+echo ---------------------------------------------------------------------------
 

@@ -90,6 +90,8 @@ sudo apt-get install liblog4cpp5-dev
 bash -c "cd Adlam_pluto_required && git clone https://github.com/bastibl/gr-foo.git gr-foo"
 bash -c "cd Adlam_pluto_required/gr-foo && git checkout master"
 bash -c "mkdir Adlam_pluto_required/gr-foo/build"
+echo 'Installing the gr-foo, a meta package required for GNU Radio IEEE802.11 Implementation'
+
 bash -c "cd Adlam_pluto_required/gr-foo/build && cmake .."
 bash -c "cd Adlam_pluto_required/gr-foo/build && make"
 bash -c "cd Adlam_pluto_required/gr-foo/build && sudo make install"
@@ -100,12 +102,13 @@ echo
 sudo apt-get install liblog4cpp5-dev
 bash -c "cd Adlam_pluto_required && git clone https://github.com/bastibl/gr-ieee802-11.git gr-ieee802-11"
 bash -c "mkdir Adlam_pluto_required/gr-ieee802-11/build"
+echo 'Installing the gr-foo, a meta package required for GNU Radio IEEE802.11 Implementation'
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && cmake .."
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && make"
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && sudo make install"
 bash -c "sudo ldconfig"
 
-echo
+echo 
 echo Adjusting the Maximum Shared Memory to 2147483648
 
 sudo sysctl -w kernel.shmmax=2147483648

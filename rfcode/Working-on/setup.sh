@@ -76,7 +76,7 @@ bash -c "cp -r /usr/local/lib/python2.7/dist-packages/gnuradio/iio /usr/lib/pyth
 
 echo  
 
-
+after_script:
 echo
 echo Installation of Adlam pltuo is completed
 echo 
@@ -86,13 +86,23 @@ echo Checking Installtion of IEEEE802.11 GNU radio based libraries.
 echo Installing required packages
 
 
-sudo apt-get install liblog4cpp 
 sudo apt-get install liblog4cpp5-dev
 bash -c "cd Adlam_pluto_required && git clone https://github.com/bastibl/gr-foo.git gr-foo"
 bash -c "cd Adlam_pluto_required/gr-foo && git checkout master"
-bash -c "cd Adlam_pluto_required/gr-foo && cmake .."
-bash -c "cd Adlam_pluto_required/gr-foo && make"
-bash -c "cd Adlam_pluto_required/gr-foo && sudo make install"
+bash -c "mkdir Adlam_pluto_required/gr-foo/build"
+bash -c "cd Adlam_pluto_required/gr-foo/build && cmake .."
+bash -c "cd Adlam_pluto_required/gr-foo/build && make"
+bash -c "cd Adlam_pluto_required/gr-foo/build && sudo make install"
+bash -c "sudo ldconfig"
+
+echo
+
+sudo apt-get install liblog4cpp5-dev
+bash -c "cd Adlam_pluto_required && git clone https://github.com/bastibl/gr-ieee802-11.git gr-ieee802-11"
+bash -c "mkdir Adlam_pluto_required/gr-ieee802-11/build"
+bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && cmake .."
+bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && make"
+bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && sudo make install"
 bash -c "sudo ldconfig"
 
 echo
@@ -120,7 +130,7 @@ sudo apt -y install libatlas-base-dev libblas-dev liblapack-dev
 sudo apt -f install
 echo Installing wireshark and tshark.......
 sudo apt -y install wireshark*
-sudo apt -y install tshark*
+sudo apt -y install tshark*after_script:
 sudo apt -y -f install
 echo
 echo

@@ -1,7 +1,7 @@
 # Browser to Browser Radio communication for Internet Access : [Radio + Addon]
 
 ## Welcome!
-_**A System for ease of Individual Internet access and circumventing Individual censorship.**_
+_**A System for ease of Individual Internet access and circumventing Individual censorship!**_
 
 <p align="center">
 <img src="/icon/FirefoxB2BRC.png" text="Logo" width="25%" />

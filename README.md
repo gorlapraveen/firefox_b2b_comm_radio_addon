@@ -85,7 +85,7 @@ members use)](https://#) release   with larger community participation & adaptio
 [@tejasri19](https://github.com/tejasri19)
 [@rajasekharponakala](https://github.com/rajasekharponakala)
 
-**Mentor:** [@katjaq](https://github.com/katjaq)
+**Mentor**(During MozillaOL7)**:** [@katjaq](https://github.com/katjaq)
 
 **Project Status:** Ongoing. 
 

@@ -28,16 +28,14 @@ Establishing the Radio communication between two or more systems by establishing
 within the Radio frequency range with the helpful combination of [GNU radio](https://gnuradio.org)-Software Defined Radio(SDR 
 software + RF Hardware) with Firefox web browser addon.
 
-**Problem:** 
-1. When user is refused for Internet connection(Wireless/Wired).
-2. When Specific user is censored to access Web.
+   * **Problem:** 
+     * * When user is refused for Internet connection(Wireless/Wired).
+     * * When Specific user is censored to access Web.
  
-**The Objectives and Implementations of This project includes:**
-1. Establishing the Radio communication between two or more systems by establishing communication between two or more open 
-browsers within the Radiofrequency range.
-2. This is by integrating (Firefox) browser with GNU radio -and SDR Hardware. Taking the advantage of developing and implementing 
-Firefox addon(s). 
-3. Taking the advantage of complete Open policy implementation.
+   * **The Objectives and Implementations of This project includes:**
+     * * Establishing the Radio communication between two or more systems by establishing communication between two or more [open browsers] systems within the Radiofrequency range.
+     * * This is by integrating (Firefox) browser with GNU radio -and SDR Hardware. Taking the advantage of developing and implementing [Firefox] addon(s). 
+     * * Taking the advantage of complete Open policy implementation.
 
 
 **System Design Implementation**: [HERE]( /Design-docs/README.md )
@@ -48,12 +46,12 @@ Firefox addon(s).
  
 A System/Device which is censored(refused internet connection) to access Web, can Privately access Web:
 
-1. This helps in communicating with nearby systems(having Internet access) within the radio frequency range when your(or 
+ * * This helps in communicating with nearby systems(having Internet access) within the radio frequency range when your(or 
 someones) Internet service Provider refused to provide user based internet and/or when there is individual user defined 
 Censorship for accesing Web.
-2. Need no direct internet access(or WiFi network) for two or more system communication within the range.
-3. Increases the anonymity and privacy of the user by Hiding the true (IP) address of Orginating system.
-4. Avoiding the internal censorship while connecting to other systems for accessing the Internet. 
+ * * Need no direct internet access(or WiFi network) for two or more system communication within the range.
+ * * Increases the anonymity and privacy of the user by Hiding the true (IP) address of Orginating system.
+ * * Avoiding the internal censorship while connecting to other systems for accessing the Internet. 
 
 ----------------------------------------------------------------------------------------------
 
@@ -61,10 +59,11 @@ Censorship for accesing Web.
 
 Contributions are welcome in each and every area of the project: [Issues](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/issues) and [Contributing Guidelines](/CONTRIBUTING.md)
 
-1. Firefox integration with GNU radio.
-2. Developing browser add-ons for the above implementation.
-3. Proposing the Universal open policy recommendations for community involvement and implementation of this project. 
-4. Developing models for Adapting this project without technical assistance for the common user or the community.
+* Cryptographical integration with GNu Radio
+* Firefox integration with GNU radio.
+* Developing browser add-ons for the above implementation.
+* Proposing the Universal open policy recommendations for community involvement and implementation of this project. 
+* Developing models for Adapting this project without technical assistance for the common user or the community.
 
 -----------------------------------------------------------------------------------------------
 

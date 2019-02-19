@@ -58,7 +58,7 @@ Censorship for accesing Web.
 
 ----------------------------------------------------------------------------------------------
 
-**What feature, release, or product can others work on during the program (September - December 2018)?**
+**What feature, release, or product can others work on during the program ?**
 
 Contributions are welcome in each and every area of the project: [Issues](https://github.com/gorlapraveen/firefox_b2b_comm_radio_addon/issues) and [Contributing Guidelines](/CONTRIBUTING.md)
 

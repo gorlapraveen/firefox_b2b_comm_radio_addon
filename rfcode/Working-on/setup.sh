@@ -102,7 +102,7 @@ echo
 bash -c "cd Adlam_pluto_required && git clone https://github.com/bastibl/gr-ieee802-11.git gr-ieee802-11"
 bash -c "mkdir Adlam_pluto_required/gr-ieee802-11/build"
 echo 'Installing the GNU Radio IEEE802.11 Implementation'
-bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && cmake .." Searxes 
+bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && cmake .." 
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && make"
 bash -c "cd Adlam_pluto_required/gr-ieee802-11/build && sudo make install"
 bash -c "sudo ldconfig"
